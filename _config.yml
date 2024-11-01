@@ -28,7 +28,7 @@ author     : WhatsApp验证码
 locale: "zh-CN" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: G-8MXZS2Y2B1
 
 collections:
   portfolio:
