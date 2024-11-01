@@ -9,7 +9,7 @@
 
 # English (default)
 # -----------------
-en: &DEFAULT_EN
+zh: &DEFAULT_ZH
   nav:
    - title: "服务内容"
      section: services
@@ -23,14 +23,16 @@ en: &DEFAULT_EN
      section: contact
    - title: "文章"
      section: blog
-en-US:
-  <<: *DEFAULT_EN
-en-CA:
-  <<: *DEFAULT_EN
-en-GB:
-  <<: *DEFAULT_EN
-en-AU:
-  <<: *DEFAULT_EN
+zh-CN:
+  <<: *DEFAULT_ZH
+zh-HK:
+  <<: *DEFAULT_ZH
+zh-MO:
+  <<: *DEFAULT_ZH
+zh-TW:
+  <<: *DEFAULT_ZH
+zh-SG:
+  <<: *DEFAULT_ZH
 
 # Spanish
 # -------
