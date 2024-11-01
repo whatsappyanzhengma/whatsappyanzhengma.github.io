@@ -11,20 +11,18 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
-      section: services
-    - title: "Portfolio"
-      section: portfolio
-    - title: "About"
-      section: about
-    - title: "Timeline"
-      section: timeline
-    - title: "Team"
-      section: team
-    - title: "Contact"
-      section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+   - title: "服务内容"
+     section: services
+   - title: "案例分享"
+     section: portfolio
+   - title: "关于我们"
+     section: about
+   - title: "联系客服"
+     section: team
+   - title: "留言"
+     section: contact
+   - titl: "文章"
+     section: blog
 en-US:
   <<: *DEFAULT_EN
 en-CA:
