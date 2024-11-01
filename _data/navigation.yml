@@ -21,7 +21,7 @@ en: &DEFAULT_EN
      section: team
    - title: "留言"
      section: contact
-   - titl: "文章"
+   - title: "文章"
      section: blog
 en-US:
   <<: *DEFAULT_EN
